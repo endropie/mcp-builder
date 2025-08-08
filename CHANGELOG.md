@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.11](https://github.com/endropie/mcp-builder/compare/mcp-builder-v0.1.10...mcp-builder-v0.1.11) (2025-08-08)
+
+
+### Bug Fixes
+
+* package.json ([c555fc7](https://github.com/endropie/mcp-builder/commit/c555fc79658b56454b9366bbc5c68135f14d94d6))
+
 ## [0.2.15](https://github.com/QuantGeekDev/mcp-framework/compare/mcp-framework-v0.2.14...mcp-framework-v0.2.15) (2025-06-18)
 
 

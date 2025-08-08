@@ -1,6 +1,6 @@
 {
   "name": "mcp-builder",
-  "version": "0.1.0",
+  "version": "0.1.11",
   "description": "Framework for building MCP servers with Typescript language",
   "type": "module",
   "author": "Hendro wibowo <hendrowibowo@msn.com>",
